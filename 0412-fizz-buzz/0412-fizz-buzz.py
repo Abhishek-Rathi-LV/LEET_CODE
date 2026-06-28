@@ -14,5 +14,5 @@ class Solution(object):
             elif s % 5 == 0:
                 answer.append("Buzz")
             else:
-                answer.append(str(s)) # Converted to string to match standard FizzBuzz return type
+                answer.append(str(s)) 
         return answer
