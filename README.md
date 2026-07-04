@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Abhishek-Rathi-LV/LEET_CODE/tree/master/2235-add-two-integers) |
